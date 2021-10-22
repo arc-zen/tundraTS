@@ -1,4 +1,4 @@
-![100% typescript](https://cdn.discordapp.com/attachments/812407216052502539/900964479196627014/unknown.png)
+[![typescript B)](https://github-readme-stats.vercel.app/api/top-langs/?username=arc-zen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 (i knew 0 typescript before this LOL)
 
