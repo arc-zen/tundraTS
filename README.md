@@ -1,4 +1,4 @@
-[![typescript B)](https://github-readme-stats.vercel.app/api/top-langs/?username=arc-zen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arc-zen&langs_count=2&theme=radical)]()
 
 (i knew 0 typescript before this LOL)
 
